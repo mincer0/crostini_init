@@ -1,5 +1,5 @@
 # crostini_init
-it's a shell script to initialize the enviroment of crostini.<br>full_initial.sh is mainly to reach the needs of my own development enviroment.<br>initial.sh is a simple script to set up pinyin input with fcitx and install some common software.
+it's a shell script to initialize the development enviroment of crostini.<br>full_initial.sh is mainly to reach the needs of my own development enviroment.<br>initial.sh is a simple script to set up pinyin input with fcitx and install some common software.
 
 ## 设定输入法主要参考网站
 http://120.79.199.53/?p=146<br>
