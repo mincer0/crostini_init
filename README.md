@@ -9,4 +9,6 @@ https://faq.fydeos.com/recipes/chinese-ime-in-linux-beta/
 https://kandi.openweaver.com/shell/abiosoft/crostini-docker
 
 ## 一键脚本
+```
 wget -N --no-check-certificate https://raw.githubusercontent.com/mincer0/crostini_init/master/initial.sh && chmod +x initial.sh && ./initial.sh
+```
