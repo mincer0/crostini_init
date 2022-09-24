@@ -9,7 +9,7 @@ https://faq.fydeos.com/recipes/chinese-ime-in-linux-beta/
 https://kandi.openweaver.com/shell/abiosoft/crostini-docker
 
 ## 一键脚本
-网络环境不好先更新国内软件源<br>
+网络环境不支持先更新国内软件源<br>
 
 initial.sh
 ```
