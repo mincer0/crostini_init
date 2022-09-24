@@ -32,6 +32,9 @@ sleep 0.5s
 
 fcitx-configtool
 
+sleep 0.5s
+austat='/usr/bin/fcitx-autostart'
+sudo echo $austat >>~/.sommelierrc
 sleep 1s
 
 #docker
