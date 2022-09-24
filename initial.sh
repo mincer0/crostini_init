@@ -32,7 +32,13 @@ sleep 0.5s
 
 fcitx-configtool
 
+sleep0.5s
+austat='/usr/bin/fcitx-autostart'
+sudo echo $austat >>~/.sommelierrc
+
 sleep 1s
+
+
 
 #nautilus
 sudo apt-get install nautilus -y
