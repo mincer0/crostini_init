@@ -17,5 +17,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mincer0/crostin
 ```
 full_initial.sh
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/mincer0/crostini_init/master/full-initial.sh && chmod +x full-initial.sh && ./full_initial.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/mincer0/crostini_init/master/full-initial.sh && chmod +x full-initial.sh && ./full-initial.sh
 ```
