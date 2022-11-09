@@ -76,6 +76,7 @@ code --install-extension bierner.markdown-preview-github-styles
 code --install-extension ms-python.python
 code --install-extension formulahendry.code-runner
 code --install-extension ms-azuretools.vscode-docker
+code --install-extension zaaack.markdown-editor
 
 sleep 0.5s
 
